@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(240, 239, 239);
+    background-color:rgb(199, 222, 233);
     margin-top: 25px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -12,7 +12,11 @@ body {
   }
   
   #intro {
-    background-color: rgb(241, 243, 245)
+    color: rgb(39, 4, 236)
+  }
+
+  #h2 {
+    color: rgb(236, 143, 4)
   }
 
   .class1 {
